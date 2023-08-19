@@ -2,7 +2,7 @@
 
 Welcome to the JavaScript Drum Kit mini project! This project is a simple web application that simulates a drum kit. When you press specific keys on your keyboard, it will play corresponding drum sounds.
 
-![Drum Kit Screenshot](screenshot.png)
+
 
 ## Table of Contents
 - [Demo](#demo)

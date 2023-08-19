@@ -14,7 +14,7 @@ Welcome to the JavaScript Drum Kit mini project! This project is a simple web ap
 
 ## Demo
 
-You can check out a live demo of the JavaScript Drum Kit here: (https://analsingh.github.io/Drum-Kit/)(#).
+You can check out a live demo of the JavaScript Drum Kit here: (https://analsingh.github.io/Drum-Kit/).
 
 ## Features
 
